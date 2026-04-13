@@ -18,3 +18,4 @@ src/main/java/
 | 2 | 백준 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | 정렬 |
 | 3 | 백준 | [1259](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | 문자열 |
 | 4 | 백준 | [1546](https://www.acmicpc.net/problem/1546) | 평균 | 수학 |
+| 5 | 백준 | [1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | 탐색 |
