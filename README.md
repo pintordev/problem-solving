@@ -21,3 +21,4 @@ src/main/java/
 | 5 | 백준 | [1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | 탐색 |
 | 6 | 백준 | [1074](https://www.acmicpc.net/problem/1074) | Z | 분할정복 |
 | 7 | 프로그래머스 | [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 카펫 | 브루트포스 |
+| 8 | 프로그래머스 | [12939](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | 최댓값과 최솟값 | 문자열 |
