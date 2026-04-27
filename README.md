@@ -25,3 +25,4 @@ src/main/java/
 | 9 | 백준 | [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | 그리디 |
 | 10 | 백준 | [7576](https://www.acmicpc.net/problem/7576) | 토마토 | BFS |
 | 11 | 백준 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | 분할정복 |
+| 12 | 백준 | [1167](https://www.acmicpc.net/problem/1167) | 트리의 지름 | 그래프 |
