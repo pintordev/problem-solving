@@ -24,3 +24,4 @@ src/main/java/
 | 8 | 프로그래머스 | [12939](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | 최댓값과 최솟값 | 문자열 |
 | 9 | 백준 | [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | 그리디 |
 | 10 | 백준 | [7576](https://www.acmicpc.net/problem/7576) | 토마토 | BFS |
+| 11 | 백준 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | 분할정복 |
