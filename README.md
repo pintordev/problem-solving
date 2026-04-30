@@ -29,3 +29,4 @@ src/main/java/
 | 13 | 프로그래머스 | [12951](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | JadenCase 문자열 만들기 | 문자열 |
 | 14 | 프로그래머스 | [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | 스택 |
 | 15 | 프로그래머스 | [12941](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 최솟값 만들기 | 그리디 |
+| 16 | 프로그래머스 | [70129](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 이진 변환 반복하기 | 그리디 |
