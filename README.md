@@ -27,3 +27,4 @@ src/main/java/
 | 11 | 백준 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | 분할정복 |
 | 12 | 백준 | [1167](https://www.acmicpc.net/problem/1167) | 트리의 지름 | 그래프 |
 | 13 | 프로그래머스 | [12951](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | JadenCase 문자열 만들기 | 문자열 |
+| 14 | 프로그래머스 | [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호 | 스택 |
