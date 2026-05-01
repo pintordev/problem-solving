@@ -31,3 +31,4 @@ src/main/java/
 | 15 | 프로그래머스 | [12941](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 최솟값 만들기 | 그리디 |
 | 16 | 프로그래머스 | [70129](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 이진 변환 반복하기 | 그리디 |
 | 17 | 프로그래머스 | [12924](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 숫자의 표현 | 수학 |
+| 18 | 프로그래머스 | [12911](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 다음 큰 숫자 | 수학 |
