@@ -32,3 +32,4 @@ src/main/java/
 | 16 | 프로그래머스 | [70129](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 이진 변환 반복하기 | 그리디 |
 | 17 | 프로그래머스 | [12924](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 숫자의 표현 | 수학 |
 | 18 | 프로그래머스 | [12911](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 다음 큰 숫자 | 수학 |
+| 19 | 프로그래머스 | [12945](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | 피보나치 수 | DP |
