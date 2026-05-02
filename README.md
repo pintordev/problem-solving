@@ -34,3 +34,4 @@ src/main/java/
 | 18 | 프로그래머스 | [12911](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 다음 큰 숫자 | 수학 |
 | 19 | 프로그래머스 | [12945](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | 피보나치 수 | DP |
 | 20 | 프로그래머스 | [12973](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 짝지어 제거하기 | 스택 |
+| 21 | 프로그래머스 | [12980](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 점프와 순간 이동 | 그리디 |
