@@ -38,3 +38,4 @@ src/main/java/
 | 22 | 프로그래머스 | [42885](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트 | 그리디 |
 | 23 | 프로그래머스 | [138476](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기 | 그리디 |
 | 24 | 프로그래머스 | [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 멀리 뛰기 | DP |
+| 25 | 프로그래머스 | [12953](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | N개의 최소공배수 | 수학 |
