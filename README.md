@@ -36,3 +36,4 @@ src/main/java/
 | 20 | 프로그래머스 | [12973](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 짝지어 제거하기 | 스택 |
 | 21 | 프로그래머스 | [12980](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 점프와 순간 이동 | 그리디 |
 | 22 | 프로그래머스 | [42885](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트 | 그리디 |
+| 23 | 프로그래머스 | [138476](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기 | 그리디 |
