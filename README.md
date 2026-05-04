@@ -39,3 +39,4 @@ src/main/java/
 | 23 | 프로그래머스 | [138476](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기 | 그리디 |
 | 24 | 프로그래머스 | [12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 멀리 뛰기 | DP |
 | 25 | 프로그래머스 | [12953](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | N개의 최소공배수 | 수학 |
+| 26 | 프로그래머스 | [131701](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수 | 구현 |
