@@ -43,3 +43,4 @@ src/main/java/
 | 27 | 프로그래머스 | [12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 영어 끝말잇기 | 문자열 |
 | 28 | 프로그래머스 | [12985](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | 예상 대진표 | 수학 |
 | 29 | 프로그래머스 | [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 할인 행사 | 구현 |
+| 30 | 프로그래머스 | [76502](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 괄호 회전하기 | 스택 |
