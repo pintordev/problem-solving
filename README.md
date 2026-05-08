@@ -44,3 +44,4 @@ src/main/java/
 | 28 | 프로그래머스 | [12985](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | 예상 대진표 | 수학 |
 | 29 | 프로그래머스 | [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 할인 행사 | 구현 |
 | 30 | 프로그래머스 | [76502](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 괄호 회전하기 | 스택 |
+| 31 | 프로그래머스 | [87390](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | n^2 배열 자르기 | 수학 |
