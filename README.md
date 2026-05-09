@@ -47,3 +47,4 @@ src/main/java/
 | 31 | 프로그래머스 | [87390](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | n^2 배열 자르기 | 수학 |
 | 32 | 프로그래머스 | [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 의상 | 해시 |
 | 33 | 프로그래머스 | [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | H-Index | 정렬 |
+| 34 | 프로그래머스 | [87946](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 피로도 | 브루트포스 |
