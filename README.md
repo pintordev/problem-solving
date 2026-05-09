@@ -48,3 +48,4 @@ src/main/java/
 | 32 | 프로그래머스 | [42578](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 의상 | 해시 |
 | 33 | 프로그래머스 | [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | H-Index | 정렬 |
 | 34 | 프로그래머스 | [87946](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 피로도 | 브루트포스 |
+| 35 | 프로그래머스 | [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발 | 스택 |
