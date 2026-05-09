@@ -49,3 +49,4 @@ src/main/java/
 | 33 | 프로그래머스 | [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | H-Index | 정렬 |
 | 34 | 프로그래머스 | [87946](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 피로도 | 브루트포스 |
 | 35 | 프로그래머스 | [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발 | 스택 |
+| 36 | 프로그래머스 | [12949](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | 행렬의 곱셈 | 수학 |
