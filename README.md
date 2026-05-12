@@ -53,3 +53,4 @@ src/main/java/
 | 37 | 프로그래머스 | [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [1차] 캐시 | 구현 |
 | 38 | 프로그래머스 | [42577](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | 해시 |
 | 39 | 프로그래머스 | [42587](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 프로세스 | 큐 |
+| 40 | 프로그래머스 | [132265](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기 | 해시 |
