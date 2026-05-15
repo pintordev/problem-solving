@@ -58,3 +58,4 @@ src/main/java/
 | 42 | 프로그래머스 | [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 타겟 넘버 | DFS |
 | 43 | 프로그래머스 | [64065](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | 튜플 | 문자열 |
 | 44 | 프로그래머스 | [84512](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 모음사전 | 문자열 |
+| 45 | 프로그래머스 | [17677](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 뉴스 클러스터링 | 문자열 |
