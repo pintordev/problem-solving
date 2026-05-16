@@ -60,3 +60,4 @@ src/main/java/
 | 44 | 프로그래머스 | [84512](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 모음사전 | 문자열 |
 | 45 | 프로그래머스 | [17677](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 뉴스 클러스터링 | 문자열 |
 | 46 | 프로그래머스 | [49994](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | 방문 길이 | 구현 |
+| 47 | 프로그래머스 | [154539](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | 뒤에 있는 큰 수 찾기 | 스택 |
