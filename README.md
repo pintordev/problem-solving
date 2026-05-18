@@ -65,3 +65,4 @@ src/main/java/
 | 49 | 프로그래머스 | [92335](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수 구하기 | 수학 |
 | 50 | 프로그래머스 | [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격 | 스택 |
 | 51 | 프로그래머스 | [17687](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | n진수 게임 | 구현 |
+| 52 | 프로그래머스 | [12913](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기 | DP |
