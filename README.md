@@ -66,3 +66,4 @@ src/main/java/
 | 50 | 프로그래머스 | [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격 | 스택 |
 | 51 | 프로그래머스 | [17687](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | n진수 게임 | 구현 |
 | 52 | 프로그래머스 | [12913](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기 | DP |
+| 53 | 프로그래머스 | [17684](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [3차] 압축 | 구현 |
