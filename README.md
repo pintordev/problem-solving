@@ -69,4 +69,4 @@ src/main/java/
 | 53 | 프로그래머스 | [17684](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [3차] 압축 | 구현 |
 | 54 | 프로그래머스 | [131704](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | 택배상자 | 스택 |
 | 55 | 프로그래머스 | [154538](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 숫자 변환하기 | DP |
-| 56 | 프로그래머스 | [49993](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 스킬트리 | 문자열 |
+| 56 | 프로그래머스 | [49993](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 스킬트리 | 문자열 || 57 | 프로그래머스 | [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 주차 요금 계산 | 해시 |
