@@ -76,3 +76,4 @@ src/main/java/
 | 60 | 프로그래머스 | [42888](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방 | 해시 |
 | 61 | 프로그래머스 | [17679](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [1차] 프렌즈4블록 | 구현 |
 | 62 | 프로그래머스 | [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 가장 큰 수 | 정렬 |
+| 63 | 프로그래머스 | [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기 | 완전탐색 |
