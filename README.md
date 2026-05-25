@@ -78,3 +78,4 @@ src/main/java/
 | 62 | 프로그래머스 | [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 가장 큰 수 | 정렬 |
 | 63 | 프로그래머스 | [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 소수 찾기 | 완전탐색 |
 | 64 | 프로그래머스 | [77885](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | 2개 이하로 다른 비트 | 수학 |
+| 65 | 프로그래머스 | [118667](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | 두 큐 합 같게 만들기 | 큐 |
