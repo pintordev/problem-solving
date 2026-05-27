@@ -82,3 +82,4 @@ src/main/java/
 | 66 | 프로그래머스 | [68936](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | 쿼드압축 후 개수 세기 | 분할정복 |
 | 67 | 프로그래머스 | [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | 큐 |
 | 68 | 프로그래머스 | [42883](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기 | 그리디 |
+| 69 | 프로그래머스 | [178870](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 연속된 부분 수열의 합 | 투 포인터 |
