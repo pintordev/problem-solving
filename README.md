@@ -86,3 +86,4 @@ src/main/java/
 | 70 | 프로그래머스 | [148653](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 마법의 엘리베이터 | 그리디 |
 | 71 | 프로그래머스 | [152996](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 시소 짝꿍 | 해시 |
 | 72 | 프로그래머스 | [68645](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 삼각 달팽이 | 구현 |
+| 73 | 프로그래머스 | [86971](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 전력망을 둘로 나누기 | 그래프 |
