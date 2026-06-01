@@ -1,8 +1,5 @@
 package programmers.greedy.p155651;
 
-import java.util.Arrays;
-import java.util.PriorityQueue;
-
 public class Solution {
     public static void main(String[] args) {
         Solution s = new Solution();
@@ -18,25 +15,16 @@ public class Solution {
     }
 
     public int solution(String[][] book_time) {
-        int[][] bt = new int[book_time.length][];
-        for (int i = 0; i < book_time.length; i++) {
-            bt[i] = parse(book_time[i]);
+        int[] timeline = new int[1450];
+        for (String[] bt : book_time) {
+            timeline[parseTime(bt[0])]++;
+            timeline[parseTime(bt[1]) + 10]--;
         }
-        Arrays.sort(bt, (o1, o2) -> o1[0] - o2[0]);
-        PriorityQueue<int[]> pq = new PriorityQueue<>((o1, o2) -> o1[1] - o2[1]);
-        int max = 0;
-        for (int[] cur : bt) {
-            while (!pq.isEmpty() && pq.peek()[1] <= cur[0]) {
-                pq.poll();
-            }
-            pq.add(cur);
-            max = Math.max(pq.size(), max);
+        int max = 0, cur = 0;
+        for (int t : timeline) {
+            max = Math.max(max, cur += t);
         }
         return max;
-    }
-
-    public int[] parse(String[] bts) {
-        return new int[]{parseTime(bts[0]), parseTime(bts[1]) + 10};
     }
 
     public int parseTime(String bt) {
