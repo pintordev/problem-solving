@@ -88,3 +88,4 @@ src/main/java/
 | 72 | 프로그래머스 | [68645](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 삼각 달팽이 | 구현 |
 | 73 | 프로그래머스 | [86971](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 전력망을 둘로 나누기 | 그래프 |
 | 74 | 프로그래머스 | [155651](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 호텔 대실 | 그리디 |
+| 75 | 프로그래머스 | [159993](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | 미로 탈출 | BFS |
