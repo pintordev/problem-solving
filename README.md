@@ -90,3 +90,4 @@ src/main/java/
 | 74 | 프로그래머스 | [155651](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 호텔 대실 | 그리디 |
 | 75 | 프로그래머스 | [159993](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | 미로 탈출 | BFS |
 | 76 | 프로그래머스 | [135807](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 숫자 카드 나누기 | 수학 |
+| 77 | 프로그래머스 | [389479](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | 서버 증설 횟수 | 구현 |
