@@ -92,3 +92,4 @@ src/main/java/
 | 76 | 프로그래머스 | [135807](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 숫자 카드 나누기 | 수학 |
 | 77 | 프로그래머스 | [389479](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | 서버 증설 횟수 | 구현 |
 | 78 | 프로그래머스 | [12978](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 배달 | 그래프 |
+| 79 | 프로그래머스 | [72411](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼 | 완전탐색 |
