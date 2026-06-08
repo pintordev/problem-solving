@@ -94,3 +94,4 @@ src/main/java/
 | 78 | 프로그래머스 | [12978](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 배달 | 그래프 |
 | 79 | 프로그래머스 | [72411](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼 | 완전탐색 |
 | 80 | 프로그래머스 | [169199](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 리코쳇 로봇 | BFS |
+| 81 | 프로그래머스 | [12899](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | 124 나라의 숫자 | 수학 |
