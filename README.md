@@ -97,3 +97,4 @@ src/main/java/
 | 81 | 프로그래머스 | [12899](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | 124 나라의 숫자 | 수학 |
 | 82 | 프로그래머스 | [142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 디펜스 게임 | 그리디 |
 | 83 | 프로그래머스 | [17683](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | 방금 그 곡 | 문자열 |
+| 84 | 프로그래머스 | [147354](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | 테이블 해시 함수 | 정렬 |
