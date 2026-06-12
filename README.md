@@ -98,3 +98,4 @@ src/main/java/
 | 82 | 프로그래머스 | [142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 디펜스 게임 | 그리디 |
 | 83 | 프로그래머스 | [17683](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | 방금 그 곡 | 문자열 |
 | 84 | 프로그래머스 | [147354](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | 테이블 해시 함수 | 정렬 |
+| 85 | 프로그래머스 | [12936](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | 줄 서는 방법 | 수학 |
