@@ -101,3 +101,4 @@ src/main/java/
 | 85 | 프로그래머스 | [12936](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | 줄 서는 방법 | 수학 |
 | 86 | 프로그래머스 | [77485](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기 | 구현 |
 | 87 | 프로그래머스 | [154540](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | 무인도 여행 | BFS |
+| 88 | 프로그래머스 | [60058](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 괄호 변환 | 문자열 |
