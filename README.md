@@ -102,3 +102,4 @@ src/main/java/
 | 86 | 프로그래머스 | [77485](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기 | 구현 |
 | 87 | 프로그래머스 | [154540](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | 무인도 여행 | BFS |
 | 88 | 프로그래머스 | [60058](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 괄호 변환 | 문자열 |
+| 89 | 프로그래머스 | [67257](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | 수식 최대화 | 브루트포스 |
