@@ -105,3 +105,4 @@ src/main/java/
 | 89 | 프로그래머스 | [67257](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | 수식 최대화 | 브루트포스 |
 | 90 | 프로그래머스 | [81302](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 거리두기 확인하기 | BFS |
 | 91 | 프로그래머스 | [12905](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | 가장 큰 정사각형 찾기 | DP |
+| 92 | 프로그래머스 | [134239](https://school.programmers.co.kr/learn/courses/30/lessons/134239) | 우박수열 정적분 | 수학 |
