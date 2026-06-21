@@ -107,3 +107,4 @@ src/main/java/
 | 91 | 프로그래머스 | [12905](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | 가장 큰 정사각형 찾기 | DP |
 | 92 | 프로그래머스 | [134239](https://school.programmers.co.kr/learn/courses/30/lessons/134239) | 우박수열 정적분 | 수학 |
 | 93 | 프로그래머스 | [12946](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | 하노이의 탑 | 분할정복 |
+| 94 | 프로그래머스 | [172927](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 광물 캐기 | 그리디 |
