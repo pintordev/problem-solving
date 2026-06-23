@@ -109,3 +109,4 @@ src/main/java/
 | 93 | 프로그래머스 | [12946](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | 하노이의 탑 | 분할정복 |
 | 94 | 프로그래머스 | [172927](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 광물 캐기 | 그리디 |
 | 95 | 프로그래머스 | [340212](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | 퍼즐 게임 챌린지 | 이분탐색 |
+| 96 | 프로그래머스 | [388353](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | 지게차와 크레인 | BFS |
