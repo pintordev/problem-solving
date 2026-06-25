@@ -111,3 +111,4 @@ src/main/java/
 | 95 | 프로그래머스 | [340212](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | 퍼즐 게임 챌린지 | 이분탐색 |
 | 96 | 프로그래머스 | [388353](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | 지게차와 크레인 | BFS |
 | 97 | 프로그래머스 | [388352](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | 비밀 코드 해독 | 브루트포스 |
+| 98 | 프로그래머스 | [60057](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축 | 문자열 |
