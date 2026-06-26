@@ -112,3 +112,4 @@ src/main/java/
 | 96 | 프로그래머스 | [388353](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | 지게차와 크레인 | BFS |
 | 97 | 프로그래머스 | [388352](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | 비밀 코드 해독 | 브루트포스 |
 | 98 | 프로그래머스 | [60057](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축 | 문자열 |
+| 99 | 프로그래머스 | [62048](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | 멀쩡한 사각형 | 수학 |
