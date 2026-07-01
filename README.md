@@ -117,3 +117,4 @@ src/main/java/
 | 101 | 프로그래머스 | [176962](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 과제 진행하기 | 스택 |
 | 102 | 프로그래머스 | [250136](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | 석유 시추 | BFS |
 | 103 | 프로그래머스 | [42890](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | 후보키 | 브루트포스 |
+| 104 | 프로그래머스 | [140107](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 점 찍기 | 수학 |
