@@ -118,3 +118,4 @@ src/main/java/
 | 102 | 프로그래머스 | [250136](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | 석유 시추 | BFS |
 | 103 | 프로그래머스 | [42890](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | 후보키 | 브루트포스 |
 | 104 | 프로그래머스 | [140107](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 점 찍기 | 수학 |
+| 105 | 프로그래머스 | [12952](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | N-Queen | 백트래킹 |
