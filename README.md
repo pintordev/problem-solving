@@ -119,3 +119,4 @@ src/main/java/
 | 103 | 프로그래머스 | [42890](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | 후보키 | 브루트포스 |
 | 104 | 프로그래머스 | [140107](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 점 찍기 | 수학 |
 | 105 | 프로그래머스 | [12952](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | N-Queen | 백트래킹 |
+| 106 | 프로그래머스 | [160585](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | 혼자서 하는 틱택토 | 구현 |
