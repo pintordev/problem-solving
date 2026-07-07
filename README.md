@@ -123,3 +123,4 @@ src/main/java/
 | 107 | 프로그래머스 | [181187](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 두 원 사이의 정수 쌍 | 수학 |
 | 108 | 프로그래머스 | [181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 요격 시스템 | 그리디 |
 | 109 | 프로그래머스 | [12923](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | 숫자 블록 | 수학 |
+| 110 | 프로그래머스 | [42860](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | 그리디 |
