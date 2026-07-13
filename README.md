@@ -129,3 +129,4 @@ src/main/java/
 | 113 | 프로그래머스 | [150369](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | 택배 배달과 수거하기 | 그리디 |
 | 114 | 프로그래머스 | [72412](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | 순위 검색 | 탐색 |
 | 115 | 프로그래머스 | [340211](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | 충돌위험 찾기 | 구현 |
+| 116 | 프로그래머스 | [468373](https://school.programmers.co.kr/learn/courses/30/lessons/468373) | 바이러스 파이프 | BFS |
