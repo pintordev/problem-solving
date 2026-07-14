@@ -130,3 +130,4 @@ src/main/java/
 | 114 | 프로그래머스 | [72412](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | 순위 검색 | 탐색 |
 | 115 | 프로그래머스 | [340211](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | 충돌위험 찾기 | 구현 |
 | 116 | 프로그래머스 | [468373](https://school.programmers.co.kr/learn/courses/30/lessons/468373) | 바이러스 파이프 | BFS |
+| 117 | 프로그래머스 | [87377](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | 교점에 별 만들기 | 수학 |
