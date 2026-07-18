@@ -134,3 +134,4 @@ src/main/java/
 | 118 | 프로그래머스 | [1829](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | 카카오프렌즈 컬러링북 | BFS |
 | 119 | 프로그래머스 | [12902](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | 3 x n 타일링 | DP |
 | 120 | 프로그래머스 | [258711](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | 도넛과 막대 그래프 | 그래프 |
+| 121 | 프로그래머스 | [1835](https://school.programmers.co.kr/learn/courses/30/lessons/1835) | 단체사진 찍기 | 브루트포스 |
