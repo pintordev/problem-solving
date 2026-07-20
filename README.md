@@ -136,3 +136,4 @@ src/main/java/
 | 120 | 프로그래머스 | [258711](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | 도넛과 막대 그래프 | 그래프 |
 | 121 | 프로그래머스 | [1835](https://school.programmers.co.kr/learn/courses/30/lessons/1835) | 단체사진 찍기 | 브루트포스 |
 | 122 | 프로그래머스 | [148652](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | 유사 칸토어 비트열 | 분할정복 |
+| 123 | 프로그래머스 | [169198](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | 당구 연습 | 수학 |
