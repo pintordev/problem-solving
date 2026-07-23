@@ -139,3 +139,4 @@ src/main/java/
 | 123 | 프로그래머스 | [169198](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | 당구 연습 | 수학 |
 | 124 | 프로그래머스 | [389480](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | 완전범죄 | DP |
 | 125 | 프로그래머스 | [468377](https://school.programmers.co.kr/learn/courses/30/lessons/468377) | 힌트 스테이지 | 브루트포스 |
+| 126 | 프로그래머스 | [86052](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | 빛의 경로 사이클 | 구현 |
