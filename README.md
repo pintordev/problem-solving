@@ -141,3 +141,4 @@ src/main/java/
 | 125 | 프로그래머스 | [468377](https://school.programmers.co.kr/learn/courses/30/lessons/468377) | 힌트 스테이지 | 브루트포스 |
 | 126 | 프로그래머스 | [86052](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | 빛의 경로 사이클 | 구현 |
 | 127 | 프로그래머스 | [250135](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | 아날로그 시계 | 수학 |
+| 128 | 프로그래머스 | [468372](https://school.programmers.co.kr/learn/courses/30/lessons/468372) | 리프 노드 수 최대화 | 그리디 |
