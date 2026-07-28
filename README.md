@@ -144,3 +144,4 @@ src/main/java/
 | 128 | 프로그래머스 | [468372](https://school.programmers.co.kr/learn/courses/30/lessons/468372) | 리프 노드 수 최대화 | 그리디 |
 | 129 | 프로그래머스 | [468379](https://school.programmers.co.kr/learn/courses/30/lessons/468379) | 선인장 숨기기 | 큐 |
 | 130 | 프로그래머스 | [43162](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 네트워크 | 그래프 |
+| 131 | 프로그래머스 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형 | DP |
