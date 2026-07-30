@@ -146,3 +146,4 @@ src/main/java/
 | 130 | 프로그래머스 | [43162](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 네트워크 | 그래프 |
 | 131 | 프로그래머스 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형 | DP |
 | 132 | 프로그래머스 | [12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근 지수 | 큐 |
+| 133 | 프로그래머스 | [42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐 | 큐 |
