@@ -147,3 +147,4 @@ src/main/java/
 | 131 | 프로그래머스 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형 | DP |
 | 132 | 프로그래머스 | [12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근 지수 | 큐 |
 | 133 | 프로그래머스 | [42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐 | 큐 |
+| 134 | 프로그래머스 | [43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 단어 변환 | BFS |
