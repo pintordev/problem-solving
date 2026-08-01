@@ -148,3 +148,4 @@ src/main/java/
 | 132 | 프로그래머스 | [12927](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근 지수 | 큐 |
 | 133 | 프로그래머스 | [42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐 | 큐 |
 | 134 | 프로그래머스 | [43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 단어 변환 | BFS |
+| 135 | 프로그래머스 | [42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길 | DP |
