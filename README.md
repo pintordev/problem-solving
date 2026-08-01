@@ -149,3 +149,4 @@ src/main/java/
 | 133 | 프로그래머스 | [42628](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐 | 큐 |
 | 134 | 프로그래머스 | [43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 단어 변환 | BFS |
 | 135 | 프로그래머스 | [42898](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길 | DP |
+| 136 | 프로그래머스 | [12987](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 숫자 게임 | 그리디 |
