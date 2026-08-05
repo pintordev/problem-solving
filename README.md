@@ -152,3 +152,4 @@ src/main/java/
 | 136 | 프로그래머스 | [12987](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 숫자 게임 | 그리디 |
 | 137 | 프로그래머스 | [42884](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 단속카메라 | 그리디 |
 | 138 | 프로그래머스 | [12979](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 기지국 설치 | 그리디 |
+| 139 | 프로그래머스 | [12938](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 최고의 집합 | 수학 |
