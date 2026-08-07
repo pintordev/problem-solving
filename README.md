@@ -154,3 +154,4 @@ src/main/java/
 | 138 | 프로그래머스 | [12979](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 기지국 설치 | 그리디 |
 | 139 | 프로그래머스 | [12938](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 최고의 집합 | 수학 |
 | 140 | 프로그래머스 | [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트앨범 | 해시 |
+| 141 | 프로그래머스 | [12971](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | 스티커 모으기 | DP |
