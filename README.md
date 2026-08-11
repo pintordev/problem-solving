@@ -158,3 +158,4 @@ src/main/java/
 | 142 | 프로그래머스 | [64064](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 불량 사용자 | 브루트포스 |
 | 143 | 프로그래머스 | [67258](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | 보석 쇼핑 | 투 포인터 |
 | 144 | 프로그래머스 | [132266](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | 부대복귀 | BFS |
+| 145 | 프로그래머스 | [42861](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 섬 연결하기 | 그래프 |
