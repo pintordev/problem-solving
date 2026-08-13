@@ -160,3 +160,4 @@ src/main/java/
 | 144 | 프로그래머스 | [132266](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | 부대복귀 | BFS |
 | 145 | 프로그래머스 | [42861](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 섬 연결하기 | 그래프 |
 | 146 | 프로그래머스 | [43164](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 여행경로 | 그래프 |
+| 147 | 프로그래머스 | [49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 가장 먼 노드 | BFS |
