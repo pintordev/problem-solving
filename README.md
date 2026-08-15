@@ -163,3 +163,4 @@ src/main/java/
 | 147 | 프로그래머스 | [49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 가장 먼 노드 | BFS |
 | 148 | 프로그래머스 | [64062](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | 징검다리 건너기 | 탐색 |
 | 149 | 프로그래머스 | [161988](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | 연속 펄스 부분 수열의 합 | DP |
+| 150 | 프로그래머스 | [43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 입국심사 | 탐색 |
