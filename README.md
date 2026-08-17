@@ -165,3 +165,4 @@ src/main/java/
 | 149 | 프로그래머스 | [161988](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | 연속 펄스 부분 수열의 합 | DP |
 | 150 | 프로그래머스 | [43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 입국심사 | 탐색 |
 | 151 | 프로그래머스 | [67259](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | 경주로 건설 | 그래프 |
+| 152 | 프로그래머스 | [77486](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | 다단계 칫솔 판매 | 해시 |
