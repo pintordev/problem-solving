@@ -167,3 +167,4 @@ src/main/java/
 | 151 | 프로그래머스 | [67259](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | 경주로 건설 | 그래프 |
 | 152 | 프로그래머스 | [77486](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | 다단계 칫솔 판매 | 해시 |
 | 153 | 프로그래머스 | [42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 디스크 컨트롤러 | 큐 |
+| 154 | 프로그래머스 | [12904](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 가장 긴 팰린드롬 | DP |
