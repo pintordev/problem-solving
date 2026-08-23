@@ -170,3 +170,4 @@ src/main/java/
 | 154 | 프로그래머스 | [12904](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 가장 긴 팰린드롬 | DP |
 | 155 | 프로그래머스 | [12907](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | 거스름돈 | DP |
 | 156 | 프로그래머스 | [17678](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [1차] 셔틀버스 | 그리디 |
+| 157 | 프로그래머스 | [68646](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | 풍선 터트리기 | 그리디 |
