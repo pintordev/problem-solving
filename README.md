@@ -172,3 +172,4 @@ src/main/java/
 | 156 | 프로그래머스 | [17678](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [1차] 셔틀버스 | 그리디 |
 | 157 | 프로그래머스 | [68646](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | 풍선 터트리기 | 그리디 |
 | 158 | 프로그래머스 | [152995](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | 인사고과 | 정렬 |
+| 159 | 프로그래머스 | [49191](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 순위 | 그래프 |
