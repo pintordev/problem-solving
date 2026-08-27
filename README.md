@@ -175,3 +175,4 @@ src/main/java/
 | 159 | 프로그래머스 | [49191](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 순위 | 그래프 |
 | 160 | 프로그래머스 | [92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | 누적합 |
 | 161 | 프로그래머스 | [72413](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 합승 택시 요금 | 그래프 |
+| 162 | 프로그래머스 | [60059](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | 자물쇠와 열쇠 | 브루트포스 |
