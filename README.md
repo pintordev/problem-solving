@@ -176,3 +176,4 @@ src/main/java/
 | 160 | 프로그래머스 | [92344](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물 | 누적합 |
 | 161 | 프로그래머스 | [72413](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 합승 택시 요금 | 그래프 |
 | 162 | 프로그래머스 | [60059](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | 자물쇠와 열쇠 | 브루트포스 |
+| 163 | 프로그래머스 | [92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | 백트래킹 |
