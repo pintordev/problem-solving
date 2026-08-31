@@ -178,3 +178,4 @@ src/main/java/
 | 162 | 프로그래머스 | [60059](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | 자물쇠와 열쇠 | 브루트포스 |
 | 163 | 프로그래머스 | [92343](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | 양과 늑대 | 백트래킹 |
 | 164 | 프로그래머스 | [81303](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | 표 편집 | 연결 리스트 |
+| 165 | 프로그래머스 | [150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | 미로 탈출 명령어 | 그리디 |
