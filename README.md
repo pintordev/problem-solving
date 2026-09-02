@@ -180,3 +180,4 @@ src/main/java/
 | 164 | 프로그래머스 | [81303](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | 표 편집 | 연결 리스트 |
 | 165 | 프로그래머스 | [150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | 미로 탈출 명령어 | 그리디 |
 | 166 | 프로그래머스 | [42892](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 길 찾기 게임 | 트리 |
+| 167 | 프로그래머스 | [1832](https://school.programmers.co.kr/learn/courses/30/lessons/1832) | 보행자 천국 | DP |
