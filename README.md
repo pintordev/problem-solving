@@ -181,3 +181,4 @@ src/main/java/
 | 165 | 프로그래머스 | [150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | 미로 탈출 명령어 | 그리디 |
 | 166 | 프로그래머스 | [42892](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 길 찾기 게임 | 트리 |
 | 167 | 프로그래머스 | [1832](https://school.programmers.co.kr/learn/courses/30/lessons/1832) | 보행자 천국 | DP |
+| 168 | 프로그래머스 | [60061](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | 기둥과 보 설치 | 구현 |
