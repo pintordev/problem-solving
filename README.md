@@ -186,3 +186,4 @@ src/main/java/
 | 170 | 프로그래머스 | [77886](https://school.programmers.co.kr/learn/courses/30/lessons/77886) | 110 옮기기 | 스택 |
 | 171 | 프로그래머스 | [150367](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | 표현 가능한 이진트리 | 분할정복 |
 | 172 | 프로그래머스 | [60062](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | 외벽 점검 | 브루트포스 |
+| 173 | 프로그래머스 | [131129](https://school.programmers.co.kr/learn/courses/30/lessons/131129) | 카운트 다운 | DP |
