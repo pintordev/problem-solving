@@ -187,3 +187,4 @@ src/main/java/
 | 171 | 프로그래머스 | [150367](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | 표현 가능한 이진트리 | 분할정복 |
 | 172 | 프로그래머스 | [60062](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | 외벽 점검 | 브루트포스 |
 | 173 | 프로그래머스 | [131129](https://school.programmers.co.kr/learn/courses/30/lessons/131129) | 카운트 다운 | DP |
+| 174 | 프로그래머스 | [70130](https://school.programmers.co.kr/learn/courses/30/lessons/70130) | 스타 수열 | 그리디 |
