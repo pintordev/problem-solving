@@ -189,3 +189,4 @@ src/main/java/
 | 173 | 프로그래머스 | [131129](https://school.programmers.co.kr/learn/courses/30/lessons/131129) | 카운트 다운 | DP |
 | 174 | 프로그래머스 | [70130](https://school.programmers.co.kr/learn/courses/30/lessons/70130) | 스타 수열 | 그리디 |
 | 175 | 프로그래머스 | [118669](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 등산코스 정하기 | 그래프 |
+| 176 | 프로그래머스 | [87694](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기 | BFS |
