@@ -191,3 +191,4 @@ src/main/java/
 | 175 | 프로그래머스 | [118669](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 등산코스 정하기 | 그래프 |
 | 176 | 프로그래머스 | [87694](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기 | BFS |
 | 177 | 프로그래머스 | [42895](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | N으로 표현 | DP |
+| 178 | 프로그래머스 | [150366](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | 표 병합 | 구현 |
