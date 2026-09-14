@@ -192,3 +192,4 @@ src/main/java/
 | 176 | 프로그래머스 | [87694](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기 | BFS |
 | 177 | 프로그래머스 | [42895](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | N으로 표현 | DP |
 | 178 | 프로그래머스 | [150366](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | 표 병합 | 구현 |
+| 179 | 프로그래머스 | [12920](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | 선입 선출 스케줄링 | 탐색 |
