@@ -193,3 +193,4 @@ src/main/java/
 | 177 | 프로그래머스 | [42895](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | N으로 표현 | DP |
 | 178 | 프로그래머스 | [150366](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | 표 병합 | 구현 |
 | 179 | 프로그래머스 | [12920](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | 선입 선출 스케줄링 | 탐색 |
+| 180 | 프로그래머스 | [131703](https://school.programmers.co.kr/learn/courses/30/lessons/131703) | 2차원 동전 뒤집기 | 브루트포스 |
