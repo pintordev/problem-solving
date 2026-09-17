@@ -195,3 +195,4 @@ src/main/java/
 | 179 | 프로그래머스 | [12920](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | 선입 선출 스케줄링 | 탐색 |
 | 180 | 프로그래머스 | [131703](https://school.programmers.co.kr/learn/courses/30/lessons/131703) | 2차원 동전 뒤집기 | 브루트포스 |
 | 181 | 프로그래머스 | [12942](https://school.programmers.co.kr/learn/courses/30/lessons/12942) | 최적의 행렬 곱셈 | DP |
+| 182 | 프로그래머스 | [258705](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | 산 모양 타일링 | DP |
