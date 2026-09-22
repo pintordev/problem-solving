@@ -200,3 +200,4 @@ src/main/java/
 | 184 | 프로그래머스 | [76503](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | 모두 0으로 만들기 | 트리 |
 | 185 | 프로그래머스 | [133500](https://school.programmers.co.kr/learn/courses/30/lessons/133500) | 등대 | 트리 |
 | 186 | 프로그래머스 | [60063](https://school.programmers.co.kr/learn/courses/30/lessons/60063) | 블록 이동하기 | BFS |
+| 187 | 프로그래머스 | [118668](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | 코딩 테스트 공부 | 그래프 |
