@@ -202,3 +202,4 @@ src/main/java/
 | 186 | 프로그래머스 | [60063](https://school.programmers.co.kr/learn/courses/30/lessons/60063) | 블록 이동하기 | BFS |
 | 187 | 프로그래머스 | [118668](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | 코딩 테스트 공부 | 그래프 |
 | 188 | 프로그래머스 | [138475](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | 억억단을 외우자 | 수학 |
+| 189 | 프로그래머스 | [258709](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | 주사위 고르기 | 브루트포스 |
