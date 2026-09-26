@@ -204,3 +204,4 @@ src/main/java/
 | 188 | 프로그래머스 | [138475](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | 억억단을 외우자 | 수학 |
 | 189 | 프로그래머스 | [258709](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | 주사위 고르기 | 브루트포스 |
 | 190 | 프로그래머스 | [258707](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | n + 1 카드게임 | 그리디 |
+| 191 | 프로그래머스 | [87391](https://school.programmers.co.kr/learn/courses/30/lessons/87391) | 공 이동 시뮬레이션 | 수학 |
