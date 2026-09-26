@@ -205,3 +205,4 @@ src/main/java/
 | 189 | 프로그래머스 | [258709](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | 주사위 고르기 | 브루트포스 |
 | 190 | 프로그래머스 | [258707](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | n + 1 카드게임 | 그리디 |
 | 191 | 프로그래머스 | [87391](https://school.programmers.co.kr/learn/courses/30/lessons/87391) | 공 이동 시뮬레이션 | 수학 |
+| 192 | 프로그래머스 | [17676](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | [1차] 추석 트래픽 | 구현 |
