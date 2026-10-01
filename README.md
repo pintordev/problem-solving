@@ -209,3 +209,4 @@ src/main/java/
 | 193 | 프로그래머스 | [136797](https://school.programmers.co.kr/learn/courses/30/lessons/136797) | 숫자 타자 대회 | 그래프 |
 | 194 | 프로그래머스 | [42893](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | 매칭 점수 | 문자열 |
 | 195 | 프로그래머스 | [250134](https://school.programmers.co.kr/learn/courses/30/lessons/250134) | [PCCP 기출문제] 4번 / 수레 움직이기 | 백트래킹 |
+| 196 | 프로그래머스 | [340210](https://school.programmers.co.kr/learn/courses/30/lessons/340210) | [PCCP 기출문제] 4번 / 수식 복원하기 | 브루트포스 |
