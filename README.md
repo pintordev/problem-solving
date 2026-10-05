@@ -213,3 +213,4 @@ src/main/java/
 | 197 | 프로그래머스 | [72415](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | 카드 짝 맞추기 | 브루트포스 |
 | 198 | 프로그래머스 | [388354](https://school.programmers.co.kr/learn/courses/30/lessons/388354) | 홀짝트리 | 그래프 |
 | 199 | 프로그래머스 | [1833](https://school.programmers.co.kr/learn/courses/30/lessons/1833) | 캠핑 | 브루트포스 |
+| 200 | 프로그래머스 | [86053](https://school.programmers.co.kr/learn/courses/30/lessons/86053) | 금과 은 운반하기 | 탐색 |
