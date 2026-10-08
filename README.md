@@ -216,3 +216,4 @@ src/main/java/
 | 200 | 프로그래머스 | [86053](https://school.programmers.co.kr/learn/courses/30/lessons/86053) | 금과 은 운반하기 | 탐색 |
 | 201 | 프로그래머스 | [84021](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | 퍼즐 조각 채우기 | BFS |
 | 202 | 프로그래머스 | [92345](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | 사라지는 발판 | 백트래킹 |
+| 203 | 프로그래머스 | [214288](https://school.programmers.co.kr/learn/courses/30/lessons/214288) | 상담원 인원 | DP |
