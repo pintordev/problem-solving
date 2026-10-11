@@ -219,3 +219,4 @@ src/main/java/
 | 203 | 프로그래머스 | [214288](https://school.programmers.co.kr/learn/courses/30/lessons/214288) | 상담원 인원 | DP |
 | 204 | 프로그래머스 | [1836](https://school.programmers.co.kr/learn/courses/30/lessons/1836) | 리틀 프렌즈 사천성 | 구현 |
 | 205 | 프로그래머스 | [1837](https://school.programmers.co.kr/learn/courses/30/lessons/1837) | GPS | DP |
+| 206 | 프로그래머스 | [131702](https://school.programmers.co.kr/learn/courses/30/lessons/131702) | 고고학 최고의 발견 | 브루트포스 |
