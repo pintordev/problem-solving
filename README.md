@@ -222,3 +222,4 @@ src/main/java/
 | 206 | 프로그래머스 | [131702](https://school.programmers.co.kr/learn/courses/30/lessons/131702) | 고고학 최고의 발견 | 브루트포스 |
 | 207 | 프로그래머스 | [468375](https://school.programmers.co.kr/learn/courses/30/lessons/468375) | 발전소 회로 복구 | DP |
 | 208 | 프로그래머스 | [468378](https://school.programmers.co.kr/learn/courses/30/lessons/468378) | 보물 찾기 | 탐색 |
+| 209 | 프로그래머스 | [214289](https://school.programmers.co.kr/learn/courses/30/lessons/214289) | 에어컨 | DP |
