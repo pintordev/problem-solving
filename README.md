@@ -224,3 +224,4 @@ src/main/java/
 | 208 | 프로그래머스 | [468378](https://school.programmers.co.kr/learn/courses/30/lessons/468378) | 보물 찾기 | 탐색 |
 | 209 | 프로그래머스 | [214289](https://school.programmers.co.kr/learn/courses/30/lessons/214289) | 에어컨 | DP |
 | 210 | 프로그래머스 | [468380](https://school.programmers.co.kr/learn/courses/30/lessons/468380) | 제곱 개수 배열 | 누적합 |
+| 211 | 프로그래머스 | [181186](https://school.programmers.co.kr/learn/courses/30/lessons/181186) | 아방가르드 타일링 | DP |
