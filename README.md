@@ -225,3 +225,4 @@ src/main/java/
 | 209 | 프로그래머스 | [214289](https://school.programmers.co.kr/learn/courses/30/lessons/214289) | 에어컨 | DP |
 | 210 | 프로그래머스 | [468380](https://school.programmers.co.kr/learn/courses/30/lessons/468380) | 제곱 개수 배열 | 누적합 |
 | 211 | 프로그래머스 | [181186](https://school.programmers.co.kr/learn/courses/30/lessons/181186) | 아방가르드 타일링 | DP |
+| 212 | 프로그래머스 | [1838](https://school.programmers.co.kr/learn/courses/30/lessons/1838) | 몸짱 트레이너 라이언의 고민 | 백트래킹 |
