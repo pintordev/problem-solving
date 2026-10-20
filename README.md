@@ -228,3 +228,4 @@ src/main/java/
 | 212 | 프로그래머스 | [1838](https://school.programmers.co.kr/learn/courses/30/lessons/1838) | 몸짱 트레이너 라이언의 고민 | 백트래킹 |
 | 213 | 프로그래머스 | [468376](https://school.programmers.co.kr/learn/courses/30/lessons/468376) | 최고 속도 | 그래프 |
 | 214 | 프로그래머스 | [468374](https://school.programmers.co.kr/learn/courses/30/lessons/468374) | 카카오 앱 정리하기 | 구현 |
+| 215 | 프로그래머스 | [451808](https://school.programmers.co.kr/learn/courses/30/lessons/451808) | 숫자 야구 | 브루트포스 |
