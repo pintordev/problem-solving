@@ -231,3 +231,4 @@ src/main/java/
 | 215 | 프로그래머스 | [451808](https://school.programmers.co.kr/learn/courses/30/lessons/451808) | 숫자 야구 | 브루트포스 |
 | 216 | 프로그래머스 | [468381](https://school.programmers.co.kr/learn/courses/30/lessons/468381) | 기차 선로 | 백트래킹 |
 | 217 | 프로그래머스 | [1830](https://school.programmers.co.kr/learn/courses/30/lessons/1830) | 브라이언의 고민 | 문자열 |
+| 218 | 프로그래머스 | [42897](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | 도둑질 | DP |
