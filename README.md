@@ -234,3 +234,4 @@ src/main/java/
 | 218 | 프로그래머스 | [42897](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | 도둑질 | DP |
 | 219 | 프로그래머스 | [64063](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | 호텔 방 배정 | 유니온파인드 |
 | 220 | 프로그래머스 | [42891](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 무지의 먹방 라이브 | 그리디 |
+| 221 | 프로그래머스 | [49995](https://school.programmers.co.kr/learn/courses/30/lessons/49995) | 쿠키 구입 | 투 포인터 |
