@@ -236,3 +236,4 @@ src/main/java/
 | 220 | 프로그래머스 | [42891](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 무지의 먹방 라이브 | 그리디 |
 | 221 | 프로그래머스 | [49995](https://school.programmers.co.kr/learn/courses/30/lessons/49995) | 쿠키 구입 | 투 포인터 |
 | 222 | 프로그래머스 | [12929](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 올바른 괄호의 갯수 | DP |
+| 223 | 프로그래머스 | [17685](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | [3차] 자동완성 | 트리 |
