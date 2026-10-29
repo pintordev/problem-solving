@@ -237,3 +237,4 @@ src/main/java/
 | 221 | 프로그래머스 | [49995](https://school.programmers.co.kr/learn/courses/30/lessons/49995) | 쿠키 구입 | 투 포인터 |
 | 222 | 프로그래머스 | [12929](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 올바른 괄호의 갯수 | DP |
 | 223 | 프로그래머스 | [17685](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | [3차] 자동완성 | 트리 |
+| 224 | 프로그래머스 | [43236](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 징검다리 | 탐색 |
