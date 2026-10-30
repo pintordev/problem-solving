@@ -238,3 +238,4 @@ src/main/java/
 | 222 | 프로그래머스 | [12929](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 올바른 괄호의 갯수 | DP |
 | 223 | 프로그래머스 | [17685](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | [3차] 자동완성 | 트리 |
 | 224 | 프로그래머스 | [43236](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 징검다리 | 탐색 |
+| 225 | 프로그래머스 | [60060](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | 가사 검색 | 문자열 |
