@@ -240,3 +240,4 @@ src/main/java/
 | 224 | 프로그래머스 | [43236](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 징검다리 | 탐색 |
 | 225 | 프로그래머스 | [60060](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | 가사 검색 | 문자열 |
 | 226 | 프로그래머스 | [12983](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | 단어 퍼즐 | DP |
+| 227 | 프로그래머스 | [12984](https://school.programmers.co.kr/learn/courses/30/lessons/12984) | 지형 편집 | 정렬 |
