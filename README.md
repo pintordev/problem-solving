@@ -246,3 +246,4 @@ src/main/java/
 | 230 | 프로그래머스 | [67260](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | 동굴 탐험 | 그래프 |
 | 231 | 프로그래머스 | [62050](https://school.programmers.co.kr/learn/courses/30/lessons/62050) | 지형 이동 | 그래프 |
 | 232 | 프로그래머스 | [68937](https://school.programmers.co.kr/learn/courses/30/lessons/68937) | 트리 트리오 중간값 | 트리 |
+| 233 | 프로그래머스 | [72416](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | 매출 하락 최소화 | 트리 |
