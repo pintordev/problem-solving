@@ -249,3 +249,4 @@ src/main/java/
 | 233 | 프로그래머스 | [72416](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | 매출 하락 최소화 | 트리 |
 | 234 | 프로그래머스 | [118670](https://school.programmers.co.kr/learn/courses/30/lessons/118670) | 행렬과 연산 | 구현 |
 | 235 | 프로그래머스 | [140105](https://school.programmers.co.kr/learn/courses/30/lessons/140105) | 쌍둥이 빌딩 숲 | DP |
+| 236 | 프로그래머스 | [1831](https://school.programmers.co.kr/learn/courses/30/lessons/1831) | 4단 고음 | 백트래킹 |
